@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+p {
+    background-color: #E8828A;
+    font-family: Verdana, sans-serif;
+}
+#id0 {
+    color: blue;
+    font-size: 36px;
+}
+.class0 {
+    font-size:24px;
+}
+
+#id1 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
